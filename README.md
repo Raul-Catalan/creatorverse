@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] Included a default image to display when the user doesn't enter the optional image url.
+* [x] Included a default image to display when the user doesn't enter the optional image url.
 
 ## Video Walkthrough
 
@@ -39,7 +39,7 @@ Here's a walkthrough of implemented required features:
 (src is the provided imgur link however the gif video is also in the repo called 'creatorverse.gif' in the root folder)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -48,9 +48,9 @@ GIF created with ...  👉🏿 GIF tool here
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
-My main challenges when creating this project was reading and understanding the docs for how supabase and react router worked. Another challenge I faced was familiarizing myself with typescript again and one pain point for me was relearning how the interfaces worked as well as deconstructing the parameters.
-Creating the pages were pretty straight forward since I was familiar with react however, I did struggle a bit when creating the add and edit pages since they involved managing the state. I had to look at various examples of forms to construct mine however once it all came together I understood what each part did. 
-One area that I struggle with and I know I should focusing on improving on is CSSing my code better. It is something I dont enjoy doing and its something I put off and do bare minium on and I think this is reflected in how the app looks.
+My main challenges when creating this project were reading and understanding the docs for how supabase and react router worked. Another challenge I faced was familiarizing myself with Typescript again, and one pain point for me was relearning how the interfaces worked, as well as deconstructing the parameters.
+Creating the pages were pretty straight forward since I was familiar with React; however, I did struggle a bit when creating the add and edit pages since they involved managing the state. I had to look at various examples of forms to construct mine; however, once it all came together, I understood what each part did. 
+One area that I struggle with and I should be focusing on improving is CSSing my code better. It is something I dont enjoy doing, and its something I put off and do the bare minimum effort to complete, and I think this is reflected in how the app looks.
 
 ## License
 
