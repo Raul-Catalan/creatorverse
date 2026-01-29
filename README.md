@@ -2,9 +2,9 @@
 
 Submitted by: Raul Catalan
 
-About this web app: **👉🏿 app description here**
+About this web app: React/Typescript Web Application with CRUD operations styled with PicoCSS.
 
-Time spent: 40 hours
+Time spent: 20 hours
 
 ## Required Features
 
