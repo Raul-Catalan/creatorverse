@@ -35,7 +35,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='./creatorverse.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://i.imgur.com/P5fx903.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+(src is the provided imgur link however the gif video is also in the repo called 'creatorverse.gif' in the root folder)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  👉🏿 GIF tool here
