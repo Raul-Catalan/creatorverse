@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] Included a default image to display when the user doesn't enter the optional image url.
+* [x] Included a default image to display when the user doesn't enter the optional image url.
 
 ## Video Walkthrough
 
