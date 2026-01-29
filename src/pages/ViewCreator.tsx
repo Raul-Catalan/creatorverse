@@ -44,7 +44,7 @@ function ViewCreator() {
       {isLoading ? (
         <p>Loading...</p>
       ) : (
-        < CreatorCard creator={creator} />
+        < CreatorCard creator={creator} showViewDetailsButton={false} />
       )}
     </div>
   )

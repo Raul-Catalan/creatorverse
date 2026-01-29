@@ -10,7 +10,7 @@ function App() {
   let element = useRoutes([
     { path: "/", element: <ShowCreators />, },
     { path: "/creator/:slug", element: <ViewCreator /> },
-    { path: '/edit', element: <EditCreator /> },
+    { path: '/edit/:slug', element: <EditCreator /> },
     { path: '/add', element: <AddCreator /> },
   ])
 

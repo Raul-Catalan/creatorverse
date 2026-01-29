@@ -10,3 +10,9 @@ export interface Creator {
 export interface CreatorList {
   creators: Creator[];
 }
+
+export interface CreatorCardProps {
+  creator: Creator;
+  showViewDetailsButton?: boolean;
+  showEdit?: boolean;
+}
